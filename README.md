@@ -3,7 +3,7 @@
 
 ## Доступные проекты
 
-### 1. **[WGAN-GP: Wasserstein GAN with Gradient Penalty](./WGAN-GP/)**
+### 1. **[WGAN-GP: Wasserstein GAN with Gradient Penalty](./WGAN)**
 **Технологии:** PyTorch, CNN, GAN
 
 **Описание:** Реализация усовершенствованной генеративно-состязательной сети для стабильного обучения и генерации лиц аниме-персонажей. Проект решает классические проблемы GAN через применение Wasserstein distance и градиентного штрафа.
